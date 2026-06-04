@@ -413,5 +413,3 @@ def removeDuplicatesTwoPointer(s):
 print(removeDuplicatesTwoPointer("programming"))
  
 
-
-

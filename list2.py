@@ -240,4 +240,15 @@ for i in range(len(nums)-2):
 
 
 
-            
+# nums = [1,1,1,2,2,3]
+# i = 0 
+# j = i + 1 
+# while i < len(nums) and j< len(nums): 
+
+nums = [5,7,7,8,8,10]
+low = 0 
+high = len(nums)-1 
+ 
+mid = (low+high)//2 
+low = mid-1 
+print(low)  
